@@ -1,5 +1,5 @@
-# Step Converter
-A website converting human steps to non-human steps.
+# Step Converter [![Build Status](https://travis-ci.org/fotijr/step-converter.svg?branch=master)](https://travis-ci.org/fotijr/step-converter)
+Convert human steps to non-human steps.
 
 ## Project setup
 ```
