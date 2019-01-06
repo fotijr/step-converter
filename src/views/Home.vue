@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/walker.png">
     <HelloWorld msg="Step Converter"/>
   </div>
 </template>
